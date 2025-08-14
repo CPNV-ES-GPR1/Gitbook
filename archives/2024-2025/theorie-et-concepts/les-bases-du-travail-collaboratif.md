@@ -8,7 +8,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Représentation schématique des différents pôles collaboratifs (mode itératif)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Représentation schématique des différents pôles collaboratifs (mode itératif)</p></figcaption></figure>
 
 ### Les différents pôles <a href="#les-differents-poles" id="les-differents-poles"></a>
 

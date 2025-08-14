@@ -6,7 +6,7 @@
 
 Comment le système réagit-il .....
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ### Interruption d'itération - désynchronisation des acteurs
 

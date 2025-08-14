@@ -20,17 +20,17 @@ Alors que Scrum s'inspire principalement de LEAN qui pousse le système à rédu
 
 Les deux sont des frameworks agiles favorisant la collaboration en mode itératif. Mais pas que....
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Pull System</strong></td><td>C'est la demande qui initie le travail (workflow).</td><td></td><td><a href="../.gitbook/assets/image (16).png">image (16).png</a></td></tr><tr><td><strong>WIP</strong></td><td>Limiter le nombre de tâches simultanées pour aider les équipes à identifier les goulots d'étranglements et améliorer la rentabilité de l'équipe.</td><td></td><td><a href="../.gitbook/assets/image (17).png">image (17).png</a></td></tr><tr><td><strong>Break Down Complex Task</strong></td><td>Décomposition des tâches complexes pour maintenir un backlog léger et permettre des livrables réguliers.</td><td></td><td><a href="../.gitbook/assets/image (18).png">image (18).png</a></td></tr><tr><td><strong>High value on Continual Improvement</strong></td><td>L'amélioration continue et l'optimisation du processus sont hautement valorisées.</td><td></td><td><a href="../.gitbook/assets/image (23).png">image (23).png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Pull System</strong></td><td>C'est la demande qui initie le travail (workflow).</td><td></td><td><a href="../../../.gitbook/assets/image (16).png">image (16).png</a></td></tr><tr><td><strong>WIP</strong></td><td>Limiter le nombre de tâches simultanées pour aider les équipes à identifier les goulots d'étranglements et améliorer la rentabilité de l'équipe.</td><td></td><td><a href="../../../.gitbook/assets/image (17).png">image (17).png</a></td></tr><tr><td><strong>Break Down Complex Task</strong></td><td>Décomposition des tâches complexes pour maintenir un backlog léger et permettre des livrables réguliers.</td><td></td><td><a href="../../../.gitbook/assets/image (18).png">image (18).png</a></td></tr><tr><td><strong>High value on Continual Improvement</strong></td><td>L'amélioration continue et l'optimisation du processus sont hautement valorisées.</td><td></td><td><a href="../../../.gitbook/assets/image (23).png">image (23).png</a></td></tr></tbody></table>
 
 ## Complémentarité
 
 Kaban est un système plus léger que Scrum notamment par "l'absence" de sprint. Les tâches sont prises par les développeurs tout en prenant gare à ne pas dépasser le nombre de tâche actives (in progress) maximales.
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 La visualisation offerte par Kaban est un outil parfaitement complémentaire à une équie Scrum, au sein d'un sprint. Nous avons pu le pratiqué dans IceScrum.
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Utilisation d'un Kanban au sein d'un sprint Scrum</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Utilisation d'un Kanban au sein d'un sprint Scrum</p></figcaption></figure>
 
 ## Différences de philosophie entre Scrum et Kaban
 

@@ -1,10 +1,10 @@
 # Séquentiel vs Itératif
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Schématisation des différentes approche Waterfall et Agile</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Schématisation des différentes approche Waterfall et Agile</p></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 L'approche traditionnelle en cascade repose sur la triple contrainte:
 

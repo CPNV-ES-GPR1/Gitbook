@@ -8,7 +8,7 @@ Ce laboratoire a pour intention de vous familiariser avec git-flow. L'idée n'é
 
 Réaliser à l'aide de git flow, l'arbre (tree) suivant:
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ## Aide
 

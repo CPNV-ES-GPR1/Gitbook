@@ -40,7 +40,7 @@ Adaptation becomes more difficult when the people involved are not empowered or 
 
 ## Le framework - schématisé
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Poster officiel de <a href="https://scrumorg-website-prod.s3.amazonaws.com/drupal/2023-09/Scrum%20Framework%20with%20sdo%20logo%209.29.23.pdf">Scrum.org</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Poster officiel de <a href="https://scrumorg-website-prod.s3.amazonaws.com/drupal/2023-09/Scrum%20Framework%20with%20sdo%20logo%209.29.23.pdf">Scrum.org</a></p></figcaption></figure>
 
 [Lien vers le cas d'étude](../laboratoires/scrum-les-bases-cas-detude.md)
 

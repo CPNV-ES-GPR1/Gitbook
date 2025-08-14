@@ -27,7 +27,7 @@ $ git push origin develop
 
 > The `--no-ff` flag causes the merge to always create a new commit object, even if the merge could be performed with a fast-forward. This avoids losing information about the historical existence of a feature branch and groups together all commits that together added the feature.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Comparaison entre le comportement de la méthode merge (plain vs --no--ff)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Comparaison entre le comportement de la méthode merge (plain vs --no--ff)</p></figcaption></figure>
 
 ## Les branches Main et Develop
 

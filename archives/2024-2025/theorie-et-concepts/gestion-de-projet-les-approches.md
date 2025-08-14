@@ -24,7 +24,7 @@ Dans le secteur informatique, McKinsey a constaté qu'en moyenne, les grands pro
   * les changements sont rares.
   * les exigences ont été clairement définies au départ.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Waterfall representation</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Waterfall representation</p></figcaption></figure>
 
 ### Approche Lean
 
@@ -44,13 +44,13 @@ Le processus de réflexion en cinq étapes pour guider la mise en œuvre de l'ap
 
 
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Les 5 étapes de l'approche LEAN</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Les 5 étapes de l'approche LEAN</p></figcaption></figure>
 
 ### Approche Agile
 
 L'approche Agile est dérivée de la pensée [Lean](gestion-de-projet-les-approches.md#approche-lean) qui applique les concepts « Lean » à l'environnement des technologies de l'information.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Un exemple de catégorisation de tâches</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Un exemple de catégorisation de tâches</p></figcaption></figure>
 
 #### Un cycle de vie itératif
 

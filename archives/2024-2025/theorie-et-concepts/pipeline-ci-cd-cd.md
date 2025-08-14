@@ -33,13 +33,13 @@ La distribution et/ou le déploiement continus ([CD - Continous Delivery + CD - 
 
 La distribution continue se limite au déploiement automatique dans les environnements de production, alors que le déploiement continu publie automatiquement les mises à jour dans ces environnements.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Source : <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd">RedHat</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Source : <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd">RedHat</a></p></figcaption></figure>
 
 Ensemble, ces pratiques sont souvent désignées par l'expression « pipeline CI/CD » et elles reposent sur une collaboration agile entre les équipes de développement et d'exploitation, que ce soit dans le cadre d'une approche [DevOps](https://www.redhat.com/fr/topics/devops?cicd=32h281b) ou d'[ingénierie de la fiabilité des sites (SRE)](https://www.redhat.com/fr/topics/devops/what-is-sre?cicd=32h281b).
 
 {% embed url="https://www.atlassian.com/devops" %}
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Source :<a href="https://www.atlassian.com/fr/devops"> Atlassian</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Source :<a href="https://www.atlassian.com/fr/devops"> Atlassian</a></p></figcaption></figure>
 
 {% embed url="https://www.redhat.com/en/topics/devops/what-is-sre?cicd=32h281b" %}
 

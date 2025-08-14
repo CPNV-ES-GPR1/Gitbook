@@ -2,7 +2,7 @@
 
 ## Cas d'études
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ### Cas 1 - Arrivez-vous à faire le lien avec les [4 pôles collaboratifs](../theorie-et-concepts/les-bases-du-travail-collaboratif.md) ?
 
