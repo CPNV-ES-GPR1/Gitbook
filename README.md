@@ -15,7 +15,10 @@
 * Théorique
   * Etude de documents et sources officielles.
   * Dialogues et débats en classe à partir de mises en situation.
-* Pratique (voir fiche module MAW1.1, RIA1, VIR1, BI1, VIR2)
+* Pratique
+  * Configuration d'outil de gestion de projet
+  * Rédaction de _backlog_
+  * &#x20;Mise en pratique dans des prochains modules (MAW1.1, RIA1, VIR1, BI1, VIR2)
 
 #### Objectifs évaluables
 
