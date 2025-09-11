@@ -22,7 +22,7 @@ description: Le déroulement du module, semaine après semaine, est présenté c
 | <p>SEM 06<br>29.09.2025</p>            | <ul><li>Normer les commits</li></ul>                                                                                  | <ul><li>Training commit</li></ul>                                                                                     |
 | <p>SEM 07<br>06.10.2025</p>            | <ul><li>Etudes personnelles</li></ul>                                                                                 | <ul><li>Etudes personnelles</li></ul>                                                                                 |
 | 13.10.2025-26.10.2025                  | <mark style="color:$success;">VACANCES D'AUTOMNE</mark>                                                               | <mark style="color:$success;">VACANCES D'AUTOMNE</mark>                                                               |
-| <p>SEM 08<br>27.10.2025-31.10.2025</p> | <mark style="color:$danger;">Evaluation I</mark>                                                                      | <mark style="color:$danger;">Evaluation II</mark>                                                                     |
+| <p>SEM 08<br>27.10.2025-31.10.2025</p> | [<mark style="color:$danger;">Evaluation I (mercredi)</mark>](evaluations/evaluation-i.md)                            | [<mark style="color:$danger;">Evaluation II (jeudi)</mark>](evaluations/evaluation-ii.md)                             |
 
 
 
