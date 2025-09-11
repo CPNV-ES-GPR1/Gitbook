@@ -8,7 +8,7 @@
     * [Séquentiel vs Itératif](theorie-et-concepts/gestion-de-projet/sequentiel-vs-iteratif.md)
     * [Les bases du travail collaboratif](theorie-et-concepts/gestion-de-projet/les-bases-du-travail-collaboratif.md)
     * [Scrum](theorie-et-concepts/gestion-de-projet/scrum/README.md)
-      * [Le sprint](theorie-et-concepts/gestion-de-projet/scrum/le-sprint.md)
+      * [Les principes de bases](gestion-de-projet/theorie-et-concepts/scrum/les-principes-de-bases.md)
       * [Rôles et Daily](theorie-et-concepts/gestion-de-projet/scrum/roles-et-daily.md)
       * [Scrum et Kanban, complémentaires ?](theorie-et-concepts/gestion-de-projet/scrum/scrum-et-kanban-complementaires.md)
       * [FAQ Scrum vs Kaban](theorie-et-concepts/gestion-de-projet/scrum/faq-scrum-vs-kaban.md)
