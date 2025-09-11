@@ -22,10 +22,10 @@
 
 
 
-| Critère             | Description                                                                                                                  |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Temps à disposition | 2 périodes                                                                                                                   |
-| Pondération         | <p>25% de la note du module en intégrant:<br>* 1/2 pour la partie pratique<br>* 1/2 pour la partie théorie et conception</p> |
+| Critère             | Description              |
+| ------------------- | ------------------------ |
+| Temps à disposition | 2 périodes               |
+| Pondération         | 50% de la note du module |
 
 
 
