@@ -23,6 +23,8 @@
   * [Laboratoires](gestion-du-code/laboratoires/README.md)
     * [Git Workflow - Partie I](gestion-du-code/laboratoires/git-workflow-partie-i.md)
     * [Git Workflow - Partie II](gestion-du-code/laboratoires/git-workflow-partie-ii.md)
+* [Evaluations](evaluations/README.md)
+  * [Evaluation I](evaluations/evaluation-i.md)
 * [Archives](archives/README.md)
   * [2024-2025](archives/2024-2025/README.md)
     * [Kickoff](archives/2024-2025/kickoff/README.md)
