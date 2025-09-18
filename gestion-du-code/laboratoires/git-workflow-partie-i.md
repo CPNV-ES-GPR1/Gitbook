@@ -28,3 +28,7 @@ Source : [NVIE](https://nvie.com/posts/a-successful-git-branching-model/)
 ## Et si on regardait un peu les commandes ?
 
 {% embed url="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" %}
+
+## Dépôt d'entrainement
+
+{% embed url="https://github.com/CPNV-ES-GPR1/Eval-Gitflow-Specs" %}
