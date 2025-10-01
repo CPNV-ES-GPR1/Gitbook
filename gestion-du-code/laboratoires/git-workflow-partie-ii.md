@@ -40,7 +40,6 @@ Dans ce gitflow proposé, deux branches sont particulièrement cruciales pour l'
 | Branche | Rôle                                                                                                                                                                                |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Main    | Est considérée comme la branche contenant la version "production -ready"                                                                                                            |
-|         |                                                                                                                                                                                     |
 | Develop | Est considérée comme la branche la plus à jour (HEAD), on la nomme ainsi "integration branch" dans le but de mentionner qu'elle contient les dernières mises à jour fonctionnelles. |
 
 ### Mise à jour des branches
