@@ -12,4 +12,6 @@
 ## Conseils de préparation pour l'évaluation
 
 * [ ] Entraînez-vous, sous contrainte de temps, à réaliser le[ laboratoire Git-flow](../gestion-du-code/laboratoires/git-workflow-partie-i.md#depot-dentrainement).
-* [ ] Reliser la documentation décrivant le concept derrière Git-flow.
+* [ ] Relisez la documentation décrivant le concept derrière Git-flow.
+  * [ ] [Stratégies de branches](../gestion-du-code/theorie-et-concepts/strategies-de-branches.md)
+  * [ ] [Git flow - Partie I](../gestion-du-code/laboratoires/git-workflow-partie-i.md) et [Git flow - Partie II](../gestion-du-code/laboratoires/git-workflow-partie-ii.md)
