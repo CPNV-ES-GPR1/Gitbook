@@ -15,7 +15,7 @@
     * [Scrum, les bases- cas d'étude](laboratoires/gestion-de-projet/scrum-les-bases-cas-detude.md)
 * [Gestion du code](gestion-du-code/README.md)
   * [Théorie et concepts](gestion-du-code/theorie-et-concepts/README.md)
-    * [Versioning](gestion-du-code/theorie-et-concepts/versioning.md)
+    * [Système de gestion de version](gestion-du-code/theorie-et-concepts/systeme-de-gestion-de-version.md)
     * [Stratégies de branches](gestion-du-code/theorie-et-concepts/strategies-de-branches.md)
     * [Les commits](gestion-du-code/theorie-et-concepts/les-commits.md)
   * [Laboratoires](gestion-du-code/laboratoires/README.md)

@@ -1,8 +1,8 @@
-# Versioning
+# Système de gestion de version
 
 ## Introduction
 
-Le **versionning** est un système de gestion des versions, permettant de <mark style="color:orange;">suivre les modifications</mark> d’un projet au fil du temps, de <mark style="color:orange;">collaborer efficacement en équipe</mark>, et de <mark style="color:orange;">revenir à des versions antérieures</mark> si nécessaire.
+Le **versioning** est un système de gestion des versions, permettant de <mark style="color:orange;">suivre les modifications</mark> d’un projet au fil du temps, de <mark style="color:orange;">collaborer efficacement en équipe</mark>, et de <mark style="color:orange;">revenir à des versions antérieures</mark> si nécessaire.
 
 ## **Débuts des systèmes de contrôle de version**
 
@@ -37,4 +37,4 @@ Le **versionning** est un système de gestion des versions, permettant de <mark 
 
 ## Conclusion
 
-Le versionning a évolué <mark style="color:orange;">d’un simple outil de gestion de versions à un système collaboratif</mark> central au processus de développement logiciel moderne. Git et Mercurial ont marqué un tournant en passant à des modèles distribués, tandis que GitHub et autres plateformes similaires ont facilité l’adoption massive du versionnement dans le monde entier.
+Le versioning a évolué <mark style="color:orange;">d’un simple outil de gestion de versions à un système collaboratif</mark> central au processus de développement logiciel moderne. Git et Mercurial ont marqué un tournant en passant à des modèles distribués, tandis que GitHub et autres plateformes similaires ont facilité l’adoption massive du versionnement dans le monde entier.
