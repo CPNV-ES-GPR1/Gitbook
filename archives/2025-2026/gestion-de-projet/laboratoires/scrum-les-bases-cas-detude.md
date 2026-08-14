@@ -2,7 +2,7 @@
 
 ## Cas d'études
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 En vous aidant du [guide](https://scrumguides.org/index.html), répondez aux questions suivantes:

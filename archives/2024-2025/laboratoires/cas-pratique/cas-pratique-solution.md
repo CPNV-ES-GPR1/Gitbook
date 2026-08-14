@@ -72,4 +72,4 @@ Je ne traite pas le décommissionnement de l'ancienne application, même si je t
 
 Pour la mise en place de l'infrastructure, il est bien trop tôt pour en parler. Mais nous devrons revoir les responsabilités concernant l'infrastructure hébergeant l'application web.
 
-Il sera également important d'intégrer au bon moment les end-users. Mais il est trop tôt pour en parler.\
+Il sera également important d'intégrer au bon moment les end-users. Mais il est trop tôt pour en parler.<br>
